@@ -11,11 +11,4 @@ h1,h2,h3,h4,h5,h6,p,a {
 	object-position: 50% 30%;
 }
 
-.slider-overlay {
-	position:absolute;
-	width:100%;
-	height:500px;
-	background-color: rgba(0,0,0,0.4);
-}
-
 /*slider section style end*/
